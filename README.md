@@ -1,6 +1,3 @@
-Perfect 👍 Here’s a **full README-style document** for **StudyBuddyAI**, modeled exactly like we did for *TalentBridgeAI*:
-
----
 
 # StudyBuddyAI – AI-Powered Learning Assistant
 
